@@ -18,7 +18,7 @@ public class Lists {
 		
 		for (String test : listofcomp) {
 			System.out.println(test);
-			System.out.println((1));
+			
 		}
 		
 			
