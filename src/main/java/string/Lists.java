@@ -16,8 +16,8 @@ public class Lists {
 		listofcomp.add("INFOSYS");
 		listofcomp.add("WIPRO");
 		
-		for (String test2 : listofcomp) {
-			System.out.println(test2);
+		for (String 2test2 : listofcomp) {
+			System.out.println(2test2);
 			
 		}
 		
